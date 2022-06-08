@@ -1,0 +1,9 @@
+.example-card {
+  max-width: 400px;
+}
+
+p {
+  font-style: italic;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: lighter;
+}

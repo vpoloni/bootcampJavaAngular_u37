@@ -1,0 +1,34 @@
+
+.bg-toolbar{
+  background-color: black;
+  color: goldenrod;
+}
+
+span{
+  font-size: xx-large;
+  font-family: 'Courier New', Courier, monospace;
+  font-weight: bolder;
+
+}
+
+.example-spacer {
+  flex: 1 1 auto;
+}
+
+a{
+  padding-left:1%;
+  padding-right:1%;
+  font-size: large;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+button{
+  margin-left: 5px;
+  background-color: black !important;
+  color:goldenrod;
+  font-family: 'Courier New', Courier, monospace;
+}
+
+.maxWidthInput{
+  max-width: 15vw !important;
+}
