@@ -1,5 +1,10 @@
 # RickAndMortyApp
 
+![image](https://user-images.githubusercontent.com/89861246/172668674-023614f3-2255-48b4-a35c-40d5f7438d11.png)
+
+![image](https://user-images.githubusercontent.com/89861246/172668996-03c7f4f7-6eac-45a5-b257-961af3bf1f13.png)
+
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
 ## Development server
