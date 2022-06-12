@@ -4,6 +4,13 @@
 
 ![image](https://user-images.githubusercontent.com/89861246/172668996-03c7f4f7-6eac-45a5-b257-961af3bf1f13.png)
 
+![image](https://user-images.githubusercontent.com/89861246/173232213-db8f0c3e-4fe8-4af0-a014-c8d4456d1560.png)
+
+![image](https://user-images.githubusercontent.com/89861246/173232132-03a03420-523b-471e-8e17-26c65dd76b7d.png)
+
+
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.1.2.
 
