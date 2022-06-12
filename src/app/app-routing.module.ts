@@ -4,6 +4,7 @@ import { AboutComponent } from './about/about.component';
 import { CharacterInfoComponent } from './characters/character-info/character-info.component';
 import { CharactersComponent } from './characters/characters.component';
 import { HomeComponent } from './home/home.component';
+import { LocalCharactersComponent } from './local-characters/local-characters.component';
 
 const routes: Routes = [
   {
@@ -14,6 +15,10 @@ const routes: Routes = [
   {
     path: 'characters',
     component: CharactersComponent
+  },
+  {
+    path: 'localCharacters',
+    component: LocalCharactersComponent
   },
   {
     path: 'home',

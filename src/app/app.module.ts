@@ -14,6 +14,7 @@ import {MatInputModule} from '@angular/material/input';
 import {MatButtonModule} from '@angular/material/button';
 import { CharacterInfoComponent } from './characters/character-info/character-info.component';
 import {MatCardModule} from '@angular/material/card';
+import { LocalCharactersComponent } from './local-characters/local-characters.component';
 
 @NgModule({
   declarations: [
@@ -21,7 +22,8 @@ import {MatCardModule} from '@angular/material/card';
     CharactersComponent,
     HomeComponent,
     AboutComponent,
-    CharacterInfoComponent
+    CharacterInfoComponent,
+    LocalCharactersComponent
   ],
   imports: [
     BrowserModule,
