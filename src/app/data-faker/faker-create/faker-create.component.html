@@ -1,0 +1,65 @@
+
+<div class="container margin">
+  <div class="row">
+    <form [formGroup]="form">
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="Nombre"
+            formControlName="name">
+          </mat-form-field>
+        </div>
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="URL Imagen"
+            formControlName="image">
+          </mat-form-field>
+        </div>
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="Especie"
+            formControlName="species">
+          </mat-form-field>
+        </div>
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="Género"
+            formControlName="gender">
+          </mat-form-field>
+        </div>
+
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="Estatus"
+            formControlName="status">
+          </mat-form-field>
+        </div>
+        <div class="row">
+          <mat-form-field >
+            <input matInput
+            type="text"
+            placeholder="Ubicación"
+            formControlName="location">
+          </mat-form-field>
+        </div>
+
+      <div class="row">
+        <div class="col">
+          <button mat-raised-button color="warn" (click)="crearClickado()">Create</button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>
+
+

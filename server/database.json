@@ -1,0 +1,363 @@
+{
+  "characters": [
+    {
+      "id": 14,
+      "name": "Fatima",
+      "status": "recusandae",
+      "species": "pariatur",
+      "gender": "sit",
+      "origin": "praesentium",
+      "location": "West Dorianchester",
+      "image": "https://loremflickr.com/267/267/abstract"
+    },
+    {
+      "name": "HalieModificado",
+      "image": "https://loremflickr.com/267/267/cats",
+      "species": "asperiores",
+      "gender": "perferendis",
+      "status": "fugit",
+      "location": "New Antonia",
+      "id": 15
+    },
+    {
+      "id": 17,
+      "name": "Lora",
+      "status": "et",
+      "species": "id",
+      "gender": "enim",
+      "origin": "ullam",
+      "location": "Sheboygan",
+      "image": "https://loremflickr.com/267/267/sports"
+    },
+    {
+      "id": 18,
+      "name": "Eldred",
+      "status": "quibusdam",
+      "species": "nulla",
+      "gender": "repudiandae",
+      "origin": "quaerat",
+      "location": "Davenport",
+      "image": "https://loremflickr.com/267/267/business"
+    },
+    {
+      "id": 19,
+      "name": "Jacey",
+      "status": "voluptates",
+      "species": "quidem",
+      "gender": "incidunt",
+      "origin": "velit",
+      "location": "Tremblayland",
+      "image": "https://loremflickr.com/267/267/transport"
+    },
+    {
+      "id": 20,
+      "name": "Lou",
+      "status": "id",
+      "species": "ea",
+      "gender": "sunt",
+      "origin": "aut",
+      "location": "Odellworth",
+      "image": "https://loremflickr.com/267/267/people"
+    },
+    {
+      "id": 21,
+      "name": "Nicolas",
+      "status": "ut",
+      "species": "quod",
+      "gender": "asperiores",
+      "origin": "fugiat",
+      "location": "Lewisville",
+      "image": "https://loremflickr.com/267/267/cats"
+    },
+    {
+      "id": 22,
+      "name": "Erna",
+      "status": "ea",
+      "species": "omnis",
+      "gender": "nobis",
+      "origin": "suscipit",
+      "location": "Port Jordy",
+      "image": "https://loremflickr.com/267/267/abstract"
+    },
+    {
+      "id": 23,
+      "name": "Kenny",
+      "status": "eveniet",
+      "species": "error",
+      "gender": "eveniet",
+      "origin": "dolores",
+      "location": "Kissimmee",
+      "image": "https://loremflickr.com/267/267/cats"
+    },
+    {
+      "id": 24,
+      "name": "Van",
+      "status": "eum",
+      "species": "cumque",
+      "gender": "consequatur",
+      "origin": "quo",
+      "location": "Apopka",
+      "image": "https://loremflickr.com/267/267/city"
+    },
+    {
+      "id": 25,
+      "name": "Icie",
+      "status": "assumenda",
+      "species": "porro",
+      "gender": "facere",
+      "origin": "pariatur",
+      "location": "Lake Carolyne",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 26,
+      "name": "Marjory",
+      "status": "occaecati",
+      "species": "quibusdam",
+      "gender": "adipisci",
+      "origin": "maxime",
+      "location": "Mount Pleasant",
+      "image": "https://loremflickr.com/267/267/abstract"
+    },
+    {
+      "id": 27,
+      "name": "Kailyn",
+      "status": "officia",
+      "species": "eum",
+      "gender": "culpa",
+      "origin": "neque",
+      "location": "Lisandroport",
+      "image": "https://loremflickr.com/267/267/fashion"
+    },
+    {
+      "id": 29,
+      "name": "Ivy",
+      "status": "consequatur",
+      "species": "qui",
+      "gender": "quia",
+      "origin": "qui",
+      "location": "Lueilwitzstad",
+      "image": "https://loremflickr.com/267/267/cats"
+    },
+    {
+      "id": 30,
+      "name": "Alvina",
+      "status": "omnis",
+      "species": "sit",
+      "gender": "quo",
+      "origin": "dolorum",
+      "location": "Staceyfurt",
+      "image": "https://loremflickr.com/267/267/transport"
+    },
+    {
+      "id": 31,
+      "name": "Natalie",
+      "status": "vel",
+      "species": "autem",
+      "gender": "voluptas",
+      "origin": "occaecati",
+      "location": "New Elza",
+      "image": "https://loremflickr.com/267/267/cats"
+    },
+    {
+      "id": 32,
+      "name": "Ezra",
+      "status": "assumenda",
+      "species": "quia",
+      "gender": "aut",
+      "origin": "ea",
+      "location": "Quitzonfield",
+      "image": "https://loremflickr.com/267/267/nature"
+    },
+    {
+      "id": 33,
+      "name": "DedricModificado!",
+      "status": "numquam",
+      "species": "facilis",
+      "gender": "perferendis",
+      "origin": "aut",
+      "location": "Fort Cordellbury",
+      "image": "https://loremflickr.com/267/267/city"
+    },
+    {
+      "id": 34,
+      "name": "Alexandro",
+      "status": "omnis",
+      "species": "neque",
+      "gender": "sapiente",
+      "origin": "sapiente",
+      "location": "Krisberg",
+      "image": "https://loremflickr.com/267/267/nature"
+    },
+    {
+      "id": 35,
+      "name": "Alfreda",
+      "status": "sed",
+      "species": "eveniet",
+      "gender": "beatae",
+      "origin": "eum",
+      "location": "Tustin",
+      "image": "https://loremflickr.com/267/267/nature"
+    },
+    {
+      "id": 36,
+      "name": "Adelbert",
+      "status": "repellendus",
+      "species": "consequatur",
+      "gender": "illo",
+      "origin": "voluptatem",
+      "location": "South Kaelafurt",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 37,
+      "name": "Marley",
+      "status": "libero",
+      "species": "eos",
+      "gender": "commodi",
+      "origin": "esse",
+      "location": "West Giovannastad",
+      "image": "https://loremflickr.com/267/267/people"
+    },
+    {
+      "id": 38,
+      "name": "Martina",
+      "status": "labore",
+      "species": "quo",
+      "gender": "quo",
+      "origin": "rerum",
+      "location": "Juddland",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 39,
+      "name": "Joshua",
+      "status": "possimus",
+      "species": "delectus",
+      "gender": "ut",
+      "origin": "aspernatur",
+      "location": "South Zulaburgh",
+      "image": "https://loremflickr.com/267/267/business"
+    },
+    {
+      "id": 40,
+      "name": "Rafaela",
+      "status": "voluptas",
+      "species": "ad",
+      "gender": "totam",
+      "origin": "aspernatur",
+      "location": "Croninborough",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 41,
+      "name": "Genevieve",
+      "status": "et",
+      "species": "culpa",
+      "gender": "quos",
+      "origin": "ab",
+      "location": "Fort Dana",
+      "image": "https://loremflickr.com/267/267/fashion"
+    },
+    {
+      "id": 42,
+      "name": "Casandra",
+      "status": "recusandae",
+      "species": "eum",
+      "gender": "molestiae",
+      "origin": "autem",
+      "location": "West Cordiestad",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 43,
+      "name": "Luz",
+      "status": "in",
+      "species": "molestiae",
+      "gender": "numquam",
+      "origin": "est",
+      "location": "Graciefurt",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 44,
+      "name": "Francesco",
+      "status": "quam",
+      "species": "dolor",
+      "gender": "sunt",
+      "origin": "commodi",
+      "location": "Lake Hazel",
+      "image": "https://loremflickr.com/267/267/people"
+    },
+    {
+      "id": 45,
+      "name": "Mason",
+      "status": "culpa",
+      "species": "eum",
+      "gender": "architecto",
+      "origin": "aut",
+      "location": "Greenfelderfield",
+      "image": "https://loremflickr.com/267/267/people"
+    },
+    {
+      "id": 46,
+      "name": "Petra",
+      "status": "voluptate",
+      "species": "aut",
+      "gender": "unde",
+      "origin": "voluptatem",
+      "location": "Woodland",
+      "image": "https://loremflickr.com/267/267/cats"
+    },
+    {
+      "id": 47,
+      "name": "Simone",
+      "status": "doloremque",
+      "species": "facere",
+      "gender": "quis",
+      "origin": "veritatis",
+      "location": "West Issacport",
+      "image": "https://loremflickr.com/267/267/food"
+    },
+    {
+      "id": 48,
+      "name": "Lamont",
+      "status": "temporibus",
+      "species": "fugiat",
+      "gender": "eius",
+      "origin": "sapiente",
+      "location": "Ernserchester",
+      "image": "https://loremflickr.com/267/267/nature"
+    },
+    {
+      "id": 49,
+      "name": "Robyn",
+      "status": "recusandae",
+      "species": "est",
+      "gender": "non",
+      "origin": "doloremque",
+      "location": "Newport News",
+      "image": "https://loremflickr.com/267/267/transport"
+    },
+    {
+      "id": 50,
+      "name": "Cleta",
+      "status": "et",
+      "species": "quia",
+      "gender": "sequi",
+      "origin": "illo",
+      "location": "Antoinettebury",
+      "image": "https://loremflickr.com/267/267/people"
+    },
+    {
+      "name": "HELLO IM NEW NAME!",
+      "status": "numquam",
+      "species": "facilis",
+      "gender": "perferendis",
+      "origin": "aut",
+      "location": "Fort Cordellbury",
+      "image": "https://loremflickr.com/267/267/city",
+      "id": 51
+    }
+  ]
+}

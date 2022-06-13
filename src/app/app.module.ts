@@ -15,6 +15,11 @@ import {MatButtonModule} from '@angular/material/button';
 import { CharacterInfoComponent } from './characters/character-info/character-info.component';
 import {MatCardModule} from '@angular/material/card';
 import { LocalCharactersComponent } from './local-characters/local-characters.component';
+import { DataFakerComponent } from './data-faker/data-faker.component';
+import { FakerInfoComponent } from './data-faker/faker-info/faker-info.component';
+import { FakerUpdateComponent } from './data-faker/faker-update/faker-update.component';
+import { ReactiveFormsModule } from '@angular/forms';
+import { FakerCreateComponent } from './data-faker/faker-create/faker-create.component';
 
 @NgModule({
   declarations: [
@@ -23,7 +28,11 @@ import { LocalCharactersComponent } from './local-characters/local-characters.co
     HomeComponent,
     AboutComponent,
     CharacterInfoComponent,
-    LocalCharactersComponent
+    LocalCharactersComponent,
+    DataFakerComponent,
+    FakerInfoComponent,
+    FakerUpdateComponent,
+    FakerCreateComponent
   ],
   imports: [
     BrowserModule,
@@ -34,7 +43,8 @@ import { LocalCharactersComponent } from './local-characters/local-characters.co
     MatIconModule,
     MatInputModule,
     MatButtonModule,
-    MatCardModule
+    MatCardModule,
+    ReactiveFormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

@@ -1,0 +1,14 @@
+<div class="d-flex flex-wrap">
+  <div class="col-md-6 col-sm-6 col-lg-3 col-xl-3" *ngFor="let caracter of caracteres">
+
+    <mat-card class="example-card">
+      <img mat-card-image src={{caracter?.image}}>
+      <p>{{caracter?.name | uppercase}}</p>
+      <button mat-raised-button color="warn" (click)="detalleClickado(caracter.id)">See more</button>
+      <button mat-raised-button color="warn" (click)="eliminarClickado(caracter.id)">Delete</button>
+      <button mat-raised-button color="warn" (click)="editaClickado(caracter.id)">Update</button>
+      <button mat-raised-button color="warn" (click)="crearClickado()">Create</button>
+    </mat-card>
+
+  </div>
+</div>
