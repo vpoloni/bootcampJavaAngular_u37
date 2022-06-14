@@ -42,6 +42,9 @@ JWT
 
 ![image](https://user-images.githubusercontent.com/89861246/173698462-9e1b6701-e6de-4c66-a494-7ac6510fca29.png)
 
+![image](https://user-images.githubusercontent.com/89861246/173698991-1d213cd9-a80a-4f55-8882-a8ae38a8f8ee.png)
+
+
 
 
 
