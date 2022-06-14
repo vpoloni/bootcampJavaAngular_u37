@@ -1,0 +1,24 @@
+<div class="container margin">
+  <div class="row">
+    <form [formGroup]="form">
+      <div class="row">
+        <mat-form-field>
+          <input matInput type="text" placeholder="Username" formControlName="username">
+        </mat-form-field>
+      </div>
+      <div class="row">
+        <mat-form-field>
+          <input matInput type="text" placeholder="Password" formControlName="password">
+        </mat-form-field>
+      </div>
+
+
+      <div class="row">
+        <div class="col">
+          <button mat-raised-button color="warn" (click)="onSubmit()">Create</button>
+        </div>
+      </div>
+
+    </form>
+  </div>
+</div>

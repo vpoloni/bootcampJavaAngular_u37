@@ -20,6 +20,12 @@ import { FakerInfoComponent } from './data-faker/faker-info/faker-info.component
 import { FakerUpdateComponent } from './data-faker/faker-update/faker-update.component';
 import { ReactiveFormsModule } from '@angular/forms';
 import { FakerCreateComponent } from './data-faker/faker-create/faker-create.component';
+import { LoginComponent } from './auth/login/login.component';
+import { RegisterComponent } from './auth/register/register.component';
+import { ProfileComponent } from './auth/profile/profile.component';
+import { BoardAdminComponent } from './auth/board-admin/board-admin.component';
+import { BoardModeratorComponent } from './auth/board-moderator/board-moderator.component';
+import { BoardUserComponent } from './auth/board-user/board-user.component';
 
 @NgModule({
   declarations: [
@@ -32,7 +38,13 @@ import { FakerCreateComponent } from './data-faker/faker-create/faker-create.com
     DataFakerComponent,
     FakerInfoComponent,
     FakerUpdateComponent,
-    FakerCreateComponent
+    FakerCreateComponent,
+    LoginComponent,
+    RegisterComponent,
+    ProfileComponent,
+    BoardAdminComponent,
+    BoardModeratorComponent,
+    BoardUserComponent
   ],
   imports: [
     BrowserModule,

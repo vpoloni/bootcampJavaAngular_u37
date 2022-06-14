@@ -1,17 +1,7 @@
 {
   "characters": [
     {
-      "id": 14,
-      "name": "Fatima",
-      "status": "recusandae",
-      "species": "pariatur",
-      "gender": "sit",
-      "origin": "praesentium",
-      "location": "West Dorianchester",
-      "image": "https://loremflickr.com/267/267/abstract"
-    },
-    {
-      "name": "HalieModificado",
+      "name": "Halie Modificado",
       "image": "https://loremflickr.com/267/267/cats",
       "species": "asperiores",
       "gender": "perferendis",
@@ -28,16 +18,6 @@
       "origin": "ullam",
       "location": "Sheboygan",
       "image": "https://loremflickr.com/267/267/sports"
-    },
-    {
-      "id": 18,
-      "name": "Eldred",
-      "status": "quibusdam",
-      "species": "nulla",
-      "gender": "repudiandae",
-      "origin": "quaerat",
-      "location": "Davenport",
-      "image": "https://loremflickr.com/267/267/business"
     },
     {
       "id": 19,
@@ -358,6 +338,15 @@
       "location": "Fort Cordellbury",
       "image": "https://loremflickr.com/267/267/city",
       "id": 51
+    },
+    {
+      "name": "OBJETO CREADO",
+      "image": "https://loremflickr.com/cache/resized/65535_51860713132_de7f09783b_267_267_nofilter.jpg",
+      "species": "Lorem ipsum",
+      "gender": "Lorem ipsum",
+      "status": "Lorem ipsum",
+      "location": "Lorem ipsum",
+      "id": 53
     }
   ]
 }
