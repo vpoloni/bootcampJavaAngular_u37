@@ -38,6 +38,11 @@ CREATE ("OBJETO CREADO") -> aparece como el último objeto de la vista
 
 ![image](https://user-images.githubusercontent.com/89861246/173444325-290a6b10-fad1-42ed-85e9-105a04b8c98e.png)
 
+JWT
+
+![image](https://user-images.githubusercontent.com/89861246/173698462-9e1b6701-e6de-4c66-a494-7ac6510fca29.png)
+
+
 
 
 
